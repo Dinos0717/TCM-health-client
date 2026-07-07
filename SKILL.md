@@ -3,7 +3,7 @@ name: my-skill
 description: [简要描述这个 skill 做什么、何时触发。最多 200 字符，这是 Claude 判断是否调用此 skill 的关键依据。]
 ---
 
-# my-skill2132131
+# my-skill
 
 ## 概述
 
